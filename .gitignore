@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+.env
+*.db
+backend/models/
+backend/results/
+backend/training-checkpoints/
+.DS_Store
+
+# Model weights and training checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+**/training-checkpoints/
+
+# Environment and secret files
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Large datasets - keep locally, do not upload to GitHub
+data/Fake.csv
+data/True.csv
+data/news.csv
+
+# Temporary and notebook files
+.ipynb_checkpoints/

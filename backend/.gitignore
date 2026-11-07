@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.db
+models/
+results/
+training-checkpoints/
+.venv/
+venv/
