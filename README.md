@@ -26,6 +26,8 @@
 
 # \- \*\*Training workflow:\*\* Python scripts and a notebook support dataset preparation and model training.
 
+# \- \*\*Url:\*\* http://localhost:5173/?utm_source=chatgpt.com
+
 #
 
 # \## Technology Stack
